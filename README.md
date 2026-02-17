@@ -15,4 +15,5 @@ A front-end web application for managing user balances and tracking transactions
 
 ##  Usage 
 1. Clone or download the repository:
-   ```bash
+    ```bash
+   git clone https://github.com/Ahmedadel33/User-Balance-Manager.git
